@@ -1,0 +1,27 @@
+{
+  "name": "ecmascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/scocca/ecmaScript.git"
+  },
+  "keywords": [
+    "javaScript",
+    "ecmaScript"
+  ],
+  "author": "Santiago Cocca <s.cocca.u@gmail.com>",
+  "license": "MIT",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/scocca/ecmaScript/issues"
+  },
+  "homepage": "https://github.com/scocca/ecmaScript#readme",
+  "dependencies": {
+    "node-fetch": "^3.3.1"
+  }
+}
